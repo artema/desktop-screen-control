@@ -1,13 +1,16 @@
 {
   "name": "desktop-screen-control",
   "version": "1.0.0",
-  "description": "Desktop screen controller.",
+  "description": "Desktop screen brightness and orientation controller.",
+  "keywords": ["windows", "desktop", "screen", "display"],
   "main": "./lib/index.js",
   "author": "Artem Abashev <artem@abashev.com>",
   "license": "MIT",
   "dependencies": {
     "edge": "^0.10.1"
   },
+  "homepage": "https://github.com/artema/desktop-screen-control",
+  "bugs": { "url" : "https://github.com/artema/desktop-screen-control/issues" },
   "repository": {
     "type": "git",
     "url": "git://github.com/artema/desktop-screen-control.git"
