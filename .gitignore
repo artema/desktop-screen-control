@@ -1,3 +1,6 @@
 node_modules
+obj
 
 npm-debug.log
+*.suo
+*.pdb

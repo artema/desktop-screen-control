@@ -2,7 +2,7 @@
   "name": "desktop-screen-control",
   "version": "1.0.0",
   "description": "Desktop screen controller.",
-  "main": "index.js",
+  "main": "./lib/index.js",
   "author": "Artem Abashev <artem@abashev.com>",
   "license": "MIT",
   "dependencies": {
